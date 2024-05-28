@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The designer of the dress took a bow	The designer of took a bow	The chef of the restaurant that had the blue tiles pleased us	the chef of that had the blue tiles pleased us	adjunct	structure_1
+The gardener watered the plants	The gardener watered	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The tailor altered the coat	The tailor altered	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The criminal of the gang that had a long scar disappeared last Monday	the criminal of that had a long scar disappeared last monday	adjunct	structure_2
+The jeweler polished the diamond	The jeweler polished	The comedian entertained the crowd with witty jokes	the comedian entertained	pp	structure_2
+The baker kneaded the dough	The baker kneaded	The guy caught the rat with a scar	the guy caught	pp	structure_1
+The director of the orchestra played well	The director of played well	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1
+The park of the city delighted the children	The park of delighted the children	The gold of the miner that had the impurities was worthless	the gold of that had the impurities was worthless	adjunct	structure_2
+The architect designed the building	The architect designed	Bruce leads the rock band with his voice	bruce leads	pp	structure_2
+The student solved the equation	The student solved	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The photographer adjusted the lens	The photographer adjusted	Mom melted the chocolate with an iron pot	mom melted	pp	structure_2
+The fisherman caught the trout	The fisherman caught	Dan entered the room with a window	dan entered the room	pp	structure_1
+The actor memorized the script	The actor memorized	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The painter of the house that had the small windows looked odd	the painter of the house looked odd	adjunct	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The letter of the writer that had blonde hair arrived this morning	the letter of arrived this morning	adjunct	structure_1
+The house of the painter looked odd	The house of looked odd	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had made a lot of sense	adjunct	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The inventor of the machine that had the goatee was amazing	fail to follow	adjunct	structure_2
+The dog of the officer came back this evening	The dog of came back this evening	The singer of the song that had long eyelashes was very smart	the singer of that had long eyelashes was very smart	adjunct	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate the cake	pp	structure_2
+The lawyer argued the case	The lawyer argued	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The driver of the car that had the moustache was pretty cool	fail to follow	adjunct	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The flowers of the valley that had the old castle excited the tourists	the flowers of that had excited the tourists	adjunct	structure_1
+The bird sang a melody	The bird sang	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2

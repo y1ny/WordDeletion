@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The director of the orchestra played well	The director of played well	The restaurant of the chef that had the blue tiles pleased us	the restaurant of the chef pleased us	adjunct	structure_2
+The teacher explained the concept	The teacher explained	The professor challenged the students with his projects	the professor challenged the students	pp	structure_2
+The fisherman caught the trout	The fisherman caught	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The musician tuned the guitar	The musician tuned	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2
+The artist of the mural completed his work	The artist of completed his work	The gold of the miner that had the impurities was worthless	the gold of the miner was worthless	adjunct	structure_2
+The photographer adjusted the lens	The photographer adjusted	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The inventor of the machine that had the goatee was amazing	fail to follow	adjunct	structure_2
+The lawyer argued the case	The lawyer argued	The coach led the team with three members	the coach led the team	pp	structure_1
+The singer composed a song	The singer composed	The basketball player won the game with lots of audience	the basketball player won the game	pp	structure_1
+The librarian sorted the books	The librarian sorted	The police investigated the house with the permission	the police investigated with the permission	pp	structure_2
+The photographer of the exhibition sold his favorite piece	The photographer of sold his favorite piece	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The mechanic fixed the engine	The mechanic fixed	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The dancer performed the routine	The dancer performed	Dan entered the room with a key	dan entered the room	pp	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The song of the singer that had long eyelashes was very smart	fail to follow	adjunct	structure_1
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The thesis of the editor that had the big nose made a lot of sense	the thesis of that made a lot of sense	adjunct	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The driver of the car that had the moustache was pretty cool	the driver of had the moustache was pretty cool	adjunct	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The painter of the house that had the small windows looked odd	the painter of had the small windows looked odd	adjunct	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The gang of the criminal that had a long scar disappeared last Monday	the gang of that had a long scar disappeared last monday	adjunct	structure_1
+The pilot flew the airplane	The pilot flew	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The letter of the writer that had blonde hair arrived this morning	fail to follow	adjunct	structure_1
+The architect designed the building	The architect designed	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The detective solved the mystery	The detective solved	The guy caught the rat with a trap	the guy caught	pp	structure_2
+The park of the city delighted the children	The park of delighted the children	The church of the bishop that had the funny eyebrows looked odd	the church of the bishop looked odd	adjunct	structure_1

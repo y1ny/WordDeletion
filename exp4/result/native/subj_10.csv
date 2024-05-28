@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The artist of the mural completed his work	The artist of completed his work	The house of the painter that had the small windows looked odd	The house of that had the small windows looked odd.	adjunct	structure_2
+The singer composed a song	The singer composed	Charles runs a photo studio with two friends	Charles runs with two friends.	pp	structure_2
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The church of the bishop that had the funny eyebrows looked odd	The church of that had the funny eyebrows looked odd.	adjunct	structure_1
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The inventor of the machine that had the goatee was amazing	The inventor of that had the goatee was amazing.	adjunct	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	The coach led the team with three members	The coach led with three members.	pp	structure_1
+The director of the orchestra played well	The director of played well	The restaurant of the chef that had the blue tiles pleased us	The restaurant of that had the blue tiles pleased us.	adjunct	structure_2
+The programmer wrote the code	The programmer wrote	Queen Elizabeth II ate the cake with a silver fork	Queen Elizabeth II ate with a silver fork.	pp	structure_2
+The detective solved the mystery	The detective solved	Mom ate the chocolate with chopped nuts	Mom ate with chopped nuts.	pp	structure_1
+The librarian sorted the books	The librarian sorted	The professor recruited the students with black eyes	The professor recruited with black eyes.	pp	structure_1
+The designer of the dress took a bow	The designer of took a bow	The criminal of the gang that had a long scar disappeared last Monday	The criminal of that had a long scar disappeared last Monday.	adjunct	structure_2
+The dancer performed the routine	The dancer performed	The magician amazed the participant with a fancy scene	The magician amazed with a fancy scene.	pp	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The editor of the thesis that had the big nose made a lot of sense	The editor of that had the big nose made a lot of sense.	adjunct	structure_2
+The driver steered the car	The driver steered	Van Gogh drew the paintings with starry night	Van Gogh drew with starry night.	pp	structure_1
+The journalist reported the news	The journalist reported	Michelle watched the movie with English subtitles	Michelle watched with English subtitles.	pp	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The miner of the gold that had the impurities was worthless	The miner of the gold that had the impurities was worthless	adjunct	structure_1
+The fisherman caught the trout	The fisherman caught	The basketball player won the game with his team	The basketball player won with his team.	pp	structure_2
+The bird sang a melody	The bird sang	The comedian entertained the crowd with witty jokes	The comedian entertained with witty jokes.	pp	structure_2
+The photographer adjusted the lens	The photographer adjusted	Jasmine sang the song with romantic lyrics	Jasmine sang with romantic lyrics.	pp	structure_1
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The letter of the writer that had blonde hair arrived this morning	The letter of that had blonde hair arrived this morning.	adjunct	structure_1
+The jeweler polished the diamond	The jeweler polished	Dan entered the room with a key	Dan entered with a key.	pp	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The car of the driver that had the moustache was pretty cool	The car of that had the moustache was pretty cool.	adjunct	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The singer of the song that had long eyelashes was very smart	The singer of that had long eyelashes was very smart.	adjunct	structure_2
+The forest of the animals pleased us	The forest of pleased us	The flowers of the valley that had the old castle excited the tourists	The flowers of that had the old castle excited the tourists.	adjunct	structure_1
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The supplier of the drugs that had a nasty effect hurt everyone	The supplier of that had a nasty effect hurt everyone.	adjunct	structure_1

@@ -1,0 +1,41 @@
+data:
+  dataset:
+    train_path: data/Deletion/train.json
+    dev_path: data/Deletion/dev.json
+    test_path: data/Deletion/test.json
+  dataset_h5: data/deletion_glove.h5
+
+  embedding_path: data/glove.840B.300d.zip
+
+  model_path: data/model-weight_pointer_p.pt
+  checkpoint_path: data/checkpoint_pointer_p
+
+global:
+  random_seed: 1024
+  num_data_workers: 1   # for data loader
+  model: pointer-lstm-p  # 'match-lstm', 'match-lstm+', 'r-net', 'm-reader' or 'base'
+                      # Note that 'base' model is customized by base_model.yaml
+  only_positon: False
+
+preprocess:
+  word_embedding_size: 300
+  ignore_max_len: 600 # in train data, context token len > ignore_max_len will be dropped
+  use_char: False
+  use_pos: True
+  use_ent: True
+  use_em: True
+  use_em_lemma: True
+
+train:
+  batch_size: 32
+  valid_batch_size: 32
+  epoch: 20
+  enable_cuda: True
+
+  optimizer: 'adamax'  # adam, sgd, adamax, adadelta(default is adamax)
+  learning_rate: 0.002  # only for sgd
+  clip_grad_norm: 5
+
+test:
+  batch_size: 32
+  enable_cuda: True

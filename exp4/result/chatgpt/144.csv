@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The song of the player is really popular	The song of is really popular	The writer of the letter that had blonde hair arrived this morning	the writer of arrived this morning	adjunct	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The bishop of the church that had the funny eyebrows looked odd	the bishop of that had the funny eyebrows looked odd	adjunct	structure_2
+The collection of the store fascinated the students	The collection of fascinated the students	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The hiker climbed the mountain	The hiker climbed	The magician amazed the participant with a fancy scene	the magician amazed	pp	structure_2
+The architect designed the building	The architect designed	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The song of the singer that had long eyelashes was very smart	fail to follow	adjunct	structure_1
+The chef seasoned the soup	The chef seasoned	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The actor memorized the script	The actor memorized	Mom melted the chocolate with an iron pot	mom melted the chocolate	pp	structure_2
+The baker kneaded the dough	The baker kneaded	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The teacher explained the concept	The teacher explained	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The king of the mountain impressed Arthur	The king of impressed Arthur	The supplier of the drugs that had a nasty effect hurt everyone	fail to follow	adjunct	structure_1
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The librarian sorted the books	The librarian sorted	Jasmine sang the song with romantic lyrics	jasmine sang with romantic lyrics	pp	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The driver of the car that had the moustache was pretty cool	the driver of that had the moustache was pretty cool	adjunct	structure_2
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The valley of the flowers that had the old castle excited the tourists	the valley of the excited the tourists	adjunct	structure_2
+The gardener watered the plants	The gardener watered	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate	pp	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The house of the painter looked odd	The house of looked odd	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had made a lot of sense	adjunct	structure_1
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The machine of the inventor that had the goatee was amazing	fail to follow	adjunct	structure_1
+The student read the book	The student read	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2
+The carpenter built the house	The carpenter built	The police investigated the house with the permission	the police investigated with the permission	pp	structure_2
+The baker baked the cake	The baker baked	Michelle watched the movie with English subtitles	michelle watched	pp	structure_1
+The dancer performed the routine	The dancer performed	the cook ate the meal with some cauliflowers	the cook ate the meal	pp	structure_1

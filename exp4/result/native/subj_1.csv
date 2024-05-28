@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The librarian sorted the books	The librarian sorted	The guy caught the rat with a trap	The guy caught	pp	structure_2
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The bishop of the church that had the funny eyebrows looked odd	The bishop looked odd	adjunct	structure_2
+The gamer played the game	The gamer played	The police investigated the house with a garden	The police investigated	pp	structure_1
+The bird sang a melody	The bird sang	The doctor noticed the boy using big headphones	The doctor noticed	pp	structure_1
+The teacher explained the concept	The teacher explained	Van Gogh sold the paintings with a broken heart	Van Gogh sold	pp	structure_2
+The attorney of the company bothered me	The attorney of bothered me	The thesis of the editor that had the big nose made a lot of sense	The thesis of made sense	adjunct	structure_1
+The student solved the equation	The student solved	The professor challenged the students with his projects	The professor challenged	pp	structure_2
+The detective solved the mystery	The detective solved	The basketball player won the game with lots of audience	The basketball player won	pp	structure_1
+The journalist reported the news	The journalist reported	the cook made the meal with a Chinese cleaver	The cook made	pp	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The song of the singer that had long eyelashes was very smart	The song of was very smart	adjunct	structure_1
+The artist of the mural completed his work	The artist of completed his work	The supplier of the drugs that had a nasty effect hurt everyone	The supplier of hurt everyone	adjunct	structure_1
+The dancer performed the routine	The dancer performed	Charles runs a photo studio with two floors	Charles runs	pp	structure_1
+The musician tuned the guitar	The musician tuned	Bill cut the paper with a very sharp knife	Bill cut	pp	structure_2
+The programmer wrote the code	The programmer wrote	The coach motivated the team with inspiring words	The coach motivated	pp	structure_2
+The collection of the store fascinated the students	The collection of fascinated the students	The restaurant of the chef that had the blue tiles pleased us	The restaurant of pleased us	adjunct	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The painter of the house that had the small windows looked odd	The painter of looked odd	adjunct	structure_1
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The flowers of the valley that had the old castle excited the tourists	The flowers of excited the tourists	adjunct	structure_1
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The miner of the gold that had the impurities was worthless	The miner of was worthless	adjunct	structure_1
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The criminal of the gang that had a long scar disappeared last Monday	The criminal of disappeared last Monday	adjunct	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The inventor of the machine that had the goatee was amazing	The inventor of was amazing	adjunct	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The driver of the car that had the moustache was pretty cool	The driver of was pretty cool	adjunct	structure_2
+The singer composed a song	The singer composed	Michelle watched the movie with English subtitles	Michelle watched	pp	structure_1
+The tailor altered the coat	The tailor altered	The magician thanked the participant with a big nose	The magician thanked	pp	structure_1
+The manager of the factory was efficient	The manager of was efficient	The writer of the letter that had blonde hair arrived this morning	The writer of arrived this morning	adjunct	structure_2

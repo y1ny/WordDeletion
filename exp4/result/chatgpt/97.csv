@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The artist of the mural completed his work	The artist of completed his work	The letter of the writer that had blonde hair arrived this morning	the letter of the writer arrived this morning	adjunct	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The gamer played the game	The gamer played	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The plains of the tribe looked strange	The plains of looked strange	The inventor of the machine that had the goatee was amazing	the inventor of was amazing	adjunct	structure_2
+The dancer performed the routine	The dancer performed	The coach motivated the team with inspiring words	the coach motivated the team	pp	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The house of the painter looked odd	The house of looked odd	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The collection of the store fascinated the students	The collection of fascinated the students	The chef of the restaurant that had the blue tiles pleased us	the chef of pleased us	adjunct	structure_1
+The lawyer argued the case	The lawyer argued	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The architect designed the building	The architect designed	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate with a red rose	pp	structure_1
+The librarian sorted the books	The librarian sorted	Dan entered the room with a key	dan entered the room	pp	structure_2
+The musician tuned the guitar	The musician tuned	Mom ate the chocolate with chopped nuts	mom ate	pp	structure_1
+The programmer wrote the code	The programmer wrote	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The manager of the factory was efficient	The manager of was efficient	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The king of the mountain impressed Arthur	The king of impressed Arthur	The editor of the thesis that had the big nose made a lot of sense	fail to follow	adjunct	structure_2
+The director of the orchestra played well	The director of played well	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The tailor altered the coat	The tailor altered	The guy caught the rat with a trap	the guy caught	pp	structure_2
+The library of the school attracted many scholarse	The library of attracted many scholarse	The driver of the car that had the moustache was pretty cool	the driver of that had the moustache was pretty cool	adjunct	structure_2
+The detective solved the mystery	The detective solved	The professor recruited the students with black eyes	the professor recruited the students	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The flowers of the valley that had the old castle excited the tourists	the flowers of excited the tourists	adjunct	structure_1
+The teacher explained the concept	The teacher explained	Jasmine sang the song with romantic lyrics	jasmine sang the song	pp	structure_1
+The singer composed a song	The singer composed	The basketball player won the game with lots of audience	the basketball player won the game	pp	structure_1
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The bishop of the church that had the funny eyebrows looked odd	the bishop of the funny eyebrows looked odd	adjunct	structure_2
+The student read the book	The student read	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2

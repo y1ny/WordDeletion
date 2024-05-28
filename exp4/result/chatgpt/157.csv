@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The criminal of the gang that had a long scar disappeared last Monday	fail to follow	adjunct	structure_2
+The photographer adjusted the lens	The photographer adjusted	The coach led the team with three members	the coach led the team	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The sculptor chiseled the statue	The sculptor chiseled	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The bird sang a melody	The bird sang	Michelle watched the movie with her boyfriend	michelle watched the movie	pp	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The gold of the miner that had the impurities was worthless	the gold of the miner was worthless	adjunct	structure_2
+The collection of the store fascinated the students	The collection of fascinated the students	The bishop of the church that had the funny eyebrows looked odd	the bishop of looked odd	adjunct	structure_2
+The musician tuned the guitar	The musician tuned	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2
+The baker baked the cake	The baker baked	Jasmine sang the song with the lovely students	jasmine sang	pp	structure_2
+The photographer of the exhibition sold his favorite piece	The photographer of sold his favorite piece	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The detective solved the mystery	The detective solved	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The painter of the house that had the small windows looked odd	the painter of had the small windows looked odd	adjunct	structure_1
+The manager of the factory was efficient	The manager of was efficient	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had the big nose made a lot of sense	adjunct	structure_1
+The festival of the village entertained the guests	The festival of entertained the guests	The machine of the inventor that had the goatee was amazing	the machine of that was amazing	adjunct	structure_1
+The actor memorized the script	The actor memorized	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate the cake	pp	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The writer of the letter that had blonde hair arrived this morning	the writer of arrived this morning	adjunct	structure_2
+The artist of the mural completed his work	The artist of completed his work	The flowers of the valley that had the old castle excited the tourists	the flowers of the valley excited the tourists	adjunct	structure_1
+The dancer performed the routine	The dancer performed	The guy caught the rat with a trap	the guy caught the rat	pp	structure_2
+The singer composed a song	The singer composed	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The librarian sorted the books	The librarian sorted	The comedian entertained the crowd with witty jokes	the comedian entertained	pp	structure_2
+The student read the book	The student read	Dan entered the room with a window	dan entered the room	pp	structure_1
+The park of the city delighted the children	The park of delighted the children	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The mechanic fixed the engine	The mechanic fixed	Van Gogh sold the paintings with a broken heart	van gogh sold	pp	structure_2

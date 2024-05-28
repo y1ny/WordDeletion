@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The photographer of the exhibition sold his favorite piece	The photographer of sold his favorite piece	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had the big nose made a lot of sense	adjunct	structure_1
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The writer of the letter that had blonde hair arrived this morning	the writer of arrived this morning	adjunct	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The machine of the inventor that had the goatee was amazing	fail to follow	adjunct	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The singer of the song that had long eyelashes was very smart	the singer of that had long eyelashes was very smart	adjunct	structure_2
+The song of the player is really popular	The song of is really popular	The valley of the flowers that had the old castle excited the tourists	the valley of that had excited the tourists	adjunct	structure_2
+The hiker climbed the mountain	The hiker climbed	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1
+The gamer played the game	The gamer played	Jasmine sang the song with romantic lyrics	jasmine sang the song	pp	structure_1
+The dancer performed the routine	The dancer performed	The professor challenged the students with his projects	the professor challenged the students	pp	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The musician tuned the guitar	The musician tuned	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The artist of the mural completed his work	The artist of completed his work	The restaurant of the chef that had the blue tiles pleased us	the restaurant of the chef pleased us	adjunct	structure_2
+The mechanic fixed the engine	The mechanic fixed	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The carpenter built the house	The carpenter built	Dan entered the room with a window	dan entered	pp	structure_1
+The baker baked the cake	The baker baked	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The designer of the dress took a bow	The designer of took a bow	The painter of the house that had the small windows looked odd	the painter of the house looked odd	adjunct	structure_1
+The architect designed the building	The architect designed	The coach motivated the team with inspiring words	the coach motivated	pp	structure_2
+The driver steered the car	The driver steered	The magician amazed the participant with a fancy scene	the magician amazed the participant	pp	structure_2
+The attorney of the company bothered me	The attorney of bothered me	The bishop of the church that had the funny eyebrows looked odd	the bishop of looked odd	adjunct	structure_2
+The photographer adjusted the lens	The photographer adjusted	The police investigated the house with the permission	the police investigated	pp	structure_2
+The chef cooked the meal	The chef cooked	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate the cake	pp	structure_2
+The tailor altered the coat	The tailor altered	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The forest of the animals pleased us	The forest of pleased us	The criminal of the gang that had a long scar disappeared last Monday	the criminal of disappeared last monday	adjunct	structure_2
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The miner of the gold that had the impurities was worthless	fail to follow	adjunct	structure_1

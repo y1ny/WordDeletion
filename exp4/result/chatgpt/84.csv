@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The mechanic fixed the engine	The mechanic fixed	The doctor saved the boy using a pacemaker	the doctor saved	pp	structure_2
+The photographer adjusted the lens	The photographer adjusted	the cook ate the meal with some cauliflowers	the cook ate the meal	pp	structure_1
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The letter of the writer that had blonde hair arrived this morning	the letter of that arrived this morning	adjunct	structure_1
+The song of the player is really popular	The song of is really popular	The painter of the house that had the small windows looked odd	the painter of that had looked odd	adjunct	structure_1
+The driver steered the car	The driver steered	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate the cake	pp	structure_1
+The dancer performed the routine	The dancer performed	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The tailor altered the coat	The tailor altered	The basketball player won the game with his team	the basketball player won with his team	pp	structure_2
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The gold of the miner that had the impurities was worthless	the gold of that had the impurities was worthless	adjunct	structure_2
+The library of the school attracted many scholarse	The library of attracted many scholarse	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The student read the book	The student read	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The attorney of the company bothered me	The attorney of bothered me	The driver of the car that had the moustache was pretty cool	the driver of had the moustache was pretty cool	adjunct	structure_2
+The designer of the dress took a bow	The designer of took a bow	The criminal of the gang that had a long scar disappeared last Monday	the criminal of that had a long scar disappeared last monday	adjunct	structure_2
+The plains of the tribe looked strange	The plains of looked strange	The flowers of the valley that had the old castle excited the tourists	the flowers of that had excited the tourists	adjunct	structure_1
+The jeweler polished the diamond	The jeweler polished	Jasmine sang the song with the lovely students	jasmine sang	pp	structure_2
+The chef cooked the meal	The chef cooked	The guy caught the rat with a trap	the guy caught the rat	pp	structure_2
+The bird sang a melody	The bird sang	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The carpenter built the house	The carpenter built	The police investigated the house with a garden	the police investigated	pp	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The chef of the restaurant that had the blue tiles pleased us	the chef of that had pleased us	adjunct	structure_1
+The fisherman caught the trout	The fisherman caught	The magician amazed the participant with a fancy scene	the magician amazed	pp	structure_2
+The pilot flew the airplane	The pilot flew	Mom melted the chocolate with an iron pot	mom melted the chocolate	pp	structure_2
+The house of the painter looked odd	The house of looked odd	The inventor of the machine that had the goatee was amazing	the inventor of had the goatee was amazing	adjunct	structure_2

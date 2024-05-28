@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The collection of the store fascinated the students	The collection of fascinated the students	The drugs of the supplier that had a nasty effect hurt everyone	The drugs of that had a nasty effect hurt everyone.	adjunct	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The inventor of the machine that had the goatee was amazing	The inventor of that had the goatee was amazing.	adjunct	structure_2
+The gamer played the game	The gamer played	Dan entered the room with a window	Dan entered the a window.	pp	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The chef of the restaurant that had the blue tiles pleased us	The chef of that had the blue tiles pleased us. 	adjunct	structure_1
+The jeweler polished the diamond	The jeweler polished	The professor challenged the students with his projects	The professor challenged with his projects.	pp	structure_2
+The teacher explained the concept	The teacher explained	Jasmine sang the song with the lovely students	Jasmine sang the with the lovely students.	pp	structure_2
+The designer of the dress took a bow	The designer of took a bow	The driver of the car that had the moustache was pretty cool	The driver of that had the moustache was pretty cool.	adjunct	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	The police investigated the house with a garden	The police investigated with a garden.	pp	structure_1
+The bird sang a melody	The bird sang	The basketball player won the game with his team	The basketball player with his team.	pp	structure_2
+The plains of the tribe looked strange	The plains of looked strange	The song of the singer that had long eyelashes was very smart	The song of that had long eyelashes was very smart.	adjunct	structure_1
+The gallery of the center impressed the critics	The gallery of impressed the critics	The editor of the thesis that had the big nose made a lot of sense	The editor of that had the big nose made a lot of sense. 	adjunct	structure_2
+The park of the city delighted the children	The park of delighted the children	The gang of the criminal that had a long scar disappeared last Monday	The gang of that had a long scar disappeared last Monday.	adjunct	structure_1
+The photographer of the exhibition sold his favorite piece	The photographer of sold his favorite piece	The gold of the miner that had the impurities was worthless	The gold of that had the impurities was worthless.	adjunct	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The letter of the writer that had blonde hair arrived this morning	The letter of that had blonde hair morning.	adjunct	structure_1
+The attorney of the company bothered me	The attorney of bothered me	The bishop of the church that had the funny eyebrows looked odd	The bishop of that had the looked odd.	adjunct	structure_2
+The student solved the equation	The student solved	The magician amazed the participant with a fancy scene	The magician amazed with a fancy scene.	pp	structure_2
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The flowers of the valley that had the old castle excited the tourists	The flowers of that had the old castle excited the tourists.	adjunct	structure_1
+The photographer adjusted the lens	The photographer adjusted	The comedian entertained the crowd with witty jokes	The comedian entertained with witty jokes.	pp	structure_2
+The baker kneaded the dough	The baker kneaded	Bill cut the paper with a very bright colour	Bill cut with a very bright colour.	pp	structure_1
+The programmer wrote the code	The programmer wrote	Michelle watched the movie with her boyfriend	Michelle watched with her boyfriend.	pp	structure_2
+The driver steered the car	The driver steered	The coach led the team with three members	The coach led with three members.	pp	structure_1
+The forest of the animals pleased us	The forest of pleased us	The painter of the house that had the small windows looked odd	The painter of that had the small windows looked odd.	adjunct	structure_1
+The singer composed a song	The singer composed	The guy caught the rat with a scar	The guy caught with a scar.	pp	structure_1
+The mechanic fixed the engine	The mechanic fixed	The doctor noticed the boy using big headphones	The doctor noticed using big headphones.	pp	structure_1

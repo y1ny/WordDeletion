@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The king of the mountain impressed Arthur	The king of impressed Arthur	The bishop of the church that had the funny eyebrows looked odd	the bishop of the funny eyebrows looked odd	adjunct	structure_2
+The baker baked the cake	The baker baked	the cook made the meal with a Chinese cleaver	the cook made	pp	structure_2
+The tailor altered the coat	The tailor altered	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The designer of the dress took a bow	The designer of took a bow	The valley of the flowers that had the old castle excited the tourists	the valley of that had excited the tourists	adjunct	structure_2
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The machine of the inventor that had the goatee was amazing	the machine of the inventor was amazing	adjunct	structure_1
+The photographer of the exhibition sold his favorite piece	The photographer of sold his favorite piece	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1
+The song of the player is really popular	The song of is really popular	The driver of the car that had the moustache was pretty cool	the driver of that had the was pretty cool	adjunct	structure_2
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The writer of the letter that had blonde hair arrived this morning	fail to follow	adjunct	structure_2
+The baker kneaded the dough	The baker kneaded	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The carpenter built the house	The carpenter built	The magician thanked the participant with a big nose	the magician thanked	pp	structure_1
+The singer composed a song	The singer composed	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The driver steered the car	The driver steered	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had the big nose made a lot of sense	adjunct	structure_1
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The artist of the mural completed his work	The artist of completed his work	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The mechanic fixed the engine	The mechanic fixed	Van Gogh sold the paintings with a broken heart	van gogh sold	pp	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	The coach led the team with three members	the coach led the team	pp	structure_1
+The actor memorized the script	The actor memorized	The professor challenged the students with his projects	the professor challenged the students	pp	structure_2
+The student read the book	The student read	The police investigated the house with the permission	the police investigated the house	pp	structure_2
+The gardener watered the plants	The gardener watered	Dan entered the room with a key	dan entered	pp	structure_2
+The chef seasoned the soup	The chef seasoned	The guy caught the rat with a scar	the guy caught	pp	structure_1

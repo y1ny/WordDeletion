@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The bakery of the district tempted the locals	The bakery of tempted the locals	The driver of the car that had the moustache was pretty cool	the driver of had the moustache was pretty cool	adjunct	structure_2
+The singer composed a song	The singer composed	Jasmine sang the song with the lovely students	jasmine sang with the lovely students	pp	structure_2
+The forest of the animals pleased us	The forest of pleased us	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1
+The artist of the mural completed his work	The artist of completed his work	The chef of the restaurant that had the blue tiles pleased us	the chef of the restaurant pleased us	adjunct	structure_1
+The manager of the factory was efficient	The manager of was efficient	The letter of the writer that had blonde hair arrived this morning	the letter of that had blonde hair arrived this morning	adjunct	structure_1
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The editor of the thesis that had the big nose made a lot of sense	the editor of that had the big nose made a lot of sense	adjunct	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The valley of the flowers that had the old castle excited the tourists	the valley of that had excited the tourists	adjunct	structure_2
+The fisherman caught the trout	The fisherman caught	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The detective solved the mystery	The detective solved	The comedian entertained the crowd with witty jokes	the comedian entertained the crowd	pp	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The miner of the gold that had the impurities was worthless	fail to follow	adjunct	structure_1
+The chef seasoned the soup	The chef seasoned	The professor recruited the students with black eyes	the professor recruited the students	pp	structure_1
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The carpenter built the house	The carpenter built	The basketball player won the game with his team	the basketball player won with his team	pp	structure_2
+The photographer adjusted the lens	The photographer adjusted	Dan entered the room with a key	dan entered the room	pp	structure_2
+The mechanic fixed the engine	The mechanic fixed	The coach led the team with three members	the coach led	pp	structure_1
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The student read the book	The student read	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate the cake	pp	structure_1
+The architect designed the building	The architect designed	Mom melted the chocolate with an iron pot	mom melted	pp	structure_2
+The tailor altered the coat	The tailor altered	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of drugs hurt everyone	adjunct	structure_1
+The driver steered the car	The driver steered	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The singer of the song that had long eyelashes was very smart	the singer of long eyelashes was very smart	adjunct	structure_2
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The inventor of the machine that had the goatee was amazing	fail to follow	adjunct	structure_2
+The bird sang a melody	The bird sang	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2

@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The manager of the factory was efficient	The manager of was efficient	The driver of the car that had the moustache was pretty cool	the driver of was pretty cool	adjunct	structure_2
+The fisherman caught the trout	The fisherman caught	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The gold of the miner that had the impurities was worthless	the gold of the miner was worthless	adjunct	structure_2
+The detective solved the mystery	The detective solved	The professor recruited the students with black eyes	the professor recruited the students	pp	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The painter of the house that had the small windows looked odd	the painter of the small windows looked odd	adjunct	structure_1
+The designer of the dress took a bow	The designer of took a bow	The letter of the writer that had blonde hair arrived this morning	the letter of that had blonde hair arrived this morning	adjunct	structure_1
+The artist of the mural completed his work	The artist of completed his work	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of the drugs hurt everyone	adjunct	structure_1
+The bird sang a melody	The bird sang	The coach motivated the team with inspiring words	the coach motivated the team	pp	structure_2
+The house of the painter looked odd	The house of looked odd	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The dancer performed the routine	The dancer performed	The police investigated the house with the permission	the police investigated the house	pp	structure_2
+The tailor altered the coat	The tailor altered	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The jeweler polished the diamond	The jeweler polished	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The machine of the inventor that had the goatee was amazing	the machine of that was amazing	adjunct	structure_1
+The pilot flew the airplane	The pilot flew	The guy caught the rat with a scar	the guy caught the rat	pp	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The editor of the thesis that had the big nose made a lot of sense	the editor of the big nose made a lot of sense	adjunct	structure_2
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The singer of the song that had long eyelashes was very smart	fail to follow	adjunct	structure_2
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The dog of the officer came back this evening	The dog of came back this evening	The church of the bishop that had the funny eyebrows looked odd	the church of that had the funny eyebrows looked odd	adjunct	structure_1
+The lawyer argued the case	The lawyer argued	Jasmine sang the song with the lovely students	jasmine sang	pp	structure_2
+The hiker climbed the mountain	The hiker climbed	Dan entered the room with a key	dan entered the room	pp	structure_2
+The journalist reported the news	The journalist reported	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The carpenter built the house	The carpenter built	the cook ate the meal with some cauliflowers	the cook ate	pp	structure_1
+The mechanic fixed the engine	The mechanic fixed	Van Gogh sold the paintings with a broken heart	van gogh sold	pp	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The valley of the flowers that had the old castle excited the tourists	the valley of that had excited the tourists	adjunct	structure_2

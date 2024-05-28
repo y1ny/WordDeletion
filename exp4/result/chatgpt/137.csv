@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The house of the painter looked odd	The house of looked odd	The church of the bishop that had the funny eyebrows looked odd	the church of that had the funny eyebrows looked odd	adjunct	structure_1
+The sculptor chiseled the statue	The sculptor chiseled	The basketball player won the game with lots of audience	the basketball player won the game	pp	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The chef cooked the meal	The chef cooked	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The photographer adjusted the lens	The photographer adjusted	The professor challenged the students with his projects	the professor challenged	pp	structure_2
+The teacher explained the concept	The teacher explained	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The designer of the dress took a bow	The designer of took a bow	The letter of the writer that had blonde hair arrived this morning	the letter of that had blonde hair arrived this morning	adjunct	structure_1
+The student read the book	The student read	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The bird sang a melody	The bird sang	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate the cake	pp	structure_2
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The song of the singer that had long eyelashes was very smart	the song of the singer was very smart	adjunct	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The driver of the car that had the moustache was pretty cool	the driver of was pretty cool	adjunct	structure_2
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The restaurant of the chef that had the blue tiles pleased us	fail to follow	adjunct	structure_2
+The pilot flew the airplane	The pilot flew	The guy caught the rat with a trap	the guy caught the rat	pp	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The criminal of the gang that had a long scar disappeared last Monday	the criminal of that had a long scar disappeared last monday	adjunct	structure_2
+The driver steered the car	The driver steered	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The song of the player is really popular	The song of is really popular	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The baker kneaded the dough	The baker kneaded	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The student solved the equation	The student solved	Jasmine sang the song with the lovely students	jasmine sang	pp	structure_2
+The festival of the village entertained the guests	The festival of entertained the guests	The machine of the inventor that had the goatee was amazing	the machine of that was amazing	adjunct	structure_1
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The actor memorized the script	The actor memorized	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The gardener watered the plants	The gardener watered	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The artist of the mural completed his work	The artist of completed his work	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of the drugs hurt everyone	adjunct	structure_1

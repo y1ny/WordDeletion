@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The hiker climbed the mountain	The hiker climbed	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The park of the city delighted the children	The park of delighted the children	The thesis of the editor that had the big nose made a lot of sense	fail to follow	adjunct	structure_1
+The jeweler polished the diamond	The jeweler polished	Jasmine sang the song with romantic lyrics	jasmine sang	pp	structure_1
+The attorney of the company bothered me	The attorney of bothered me	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The dancer performed the routine	The dancer performed	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The designer of the dress took a bow	The designer of took a bow	The house of the painter that had the small windows looked odd	the house of that had the small windows looked odd	adjunct	structure_2
+The student solved the equation	The student solved	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1
+The pilot flew the airplane	The pilot flew	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The actor memorized the script	The actor memorized	The guy caught the rat with a scar	the guy caught the rat	pp	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The chef seasoned the soup	The chef seasoned	The police investigated the house with the permission	the police investigated	pp	structure_2
+The lawyer argued the case	The lawyer argued	Bruce leads the rock band with his voice	bruce leads the rock band	pp	structure_2
+The librarian sorted the books	The librarian sorted	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate with a silver fork	pp	structure_2
+The fisherman caught the trout	The fisherman caught	Van Gogh sold the paintings with a broken heart	van gogh sold	pp	structure_2
+The musician tuned the guitar	The musician tuned	The professor recruited the students with black eyes	the professor recruited the students	pp	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The driver of the car that had the moustache was pretty cool	the driver of that had the moustache was pretty cool	adjunct	structure_2
+The library of the school attracted many scholarse	The library of attracted many scholarse	The inventor of the machine that had the goatee was amazing	the inventor of that had the goatee was amazing	adjunct	structure_2
+The carpenter built the house	The carpenter built	The basketball player won the game with his team	the basketball player won with his team	pp	structure_2
+The forest of the animals pleased us	The forest of pleased us	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The letter of the writer that had blonde hair arrived this morning	fail to follow	adjunct	structure_1

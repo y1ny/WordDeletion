@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The house of the painter looked odd	The house of looked odd	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The chef cooked the meal	The chef cooked	Van Gogh drew the paintings with starry night	van gogh drew the paintings	pp	structure_1
+The carpenter built the house	The carpenter built	Michelle watched the movie with English subtitles	michelle watched with english subtitles	pp	structure_1
+The tailor altered the coat	The tailor altered	Mom melted the chocolate with an iron pot	mom melted	pp	structure_2
+The song of the player is really popular	The song of is really popular	The chef of the restaurant that had the blue tiles pleased us	the chef of that had the blue tiles pleased us	adjunct	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The inventor of the machine that had the goatee was amazing	the inventor of was amazing	adjunct	structure_2
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of drugs hurt everyone	adjunct	structure_1
+The student solved the equation	The student solved	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate	pp	structure_2
+The baker kneaded the dough	The baker kneaded	Jasmine sang the song with romantic lyrics	jasmine sang	pp	structure_1
+The gamer played the game	The gamer played	The doctor noticed the boy using big headphones	the doctor noticed the boy	pp	structure_1
+The jeweler polished the diamond	The jeweler polished	The coach motivated the team with inspiring words	the coach motivated	pp	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The driver of the car that had the moustache was pretty cool	fail to follow	adjunct	structure_2
+The director of the orchestra played well	The director of played well	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The letter of the writer that had blonde hair arrived this morning	the letter of arrived this morning	adjunct	structure_1
+The lawyer argued the case	The lawyer argued	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The editor of the thesis that had the big nose made a lot of sense	the editor of that made a lot of sense	adjunct	structure_2
+The gardener watered the plants	The gardener watered	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The architect designed the building	The architect designed	Dan entered the room with a key	dan entered	pp	structure_2
+The attorney of the company bothered me	The attorney of bothered me	The singer of the song that had long eyelashes was very smart	the singer of that had long eyelashes was very smart	adjunct	structure_2
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The house of the painter that had the small windows looked odd	fail to follow	adjunct	structure_2
+The dog of the officer came back this evening	The dog of came back this evening	The gang of the criminal that had a long scar disappeared last Monday	the gang of that had a long scar disappeared last monday	adjunct	structure_1
+The forest of the animals pleased us	The forest of pleased us	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The fisherman caught the trout	The fisherman caught	The guy caught the rat with a scar	the guy caught	pp	structure_1
+The pilot flew the airplane	The pilot flew	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2

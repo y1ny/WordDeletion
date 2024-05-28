@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The architect designed the building	The architect designed	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The tailor altered the coat	The tailor altered	The police investigated the house with the permission	the police investigated with permission	pp	structure_2
+The song of the player is really popular	The song of is really popular	The letter of the writer that had blonde hair arrived this morning	the letter of that had blonde hair arrived this morning	adjunct	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The librarian sorted the books	The librarian sorted	The guy caught the rat with a trap	the guy caught with a trap	pp	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The criminal of the gang that had a long scar disappeared last Monday	the criminal of that had a long scar disappeared last monday	adjunct	structure_2
+The gamer played the game	The gamer played	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2
+The photographer adjusted the lens	The photographer adjusted	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The director of the orchestra played well	The director of played well	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The dog of the officer came back this evening	The dog of came back this evening	The church of the bishop that had the funny eyebrows looked odd	the church of that had the funny eyebrows looked odd	adjunct	structure_1
+The attorney of the company bothered me	The attorney of bothered me	The house of the painter that had the small windows looked odd	the house of that had the small windows looked odd	adjunct	structure_2
+The singer composed a song	The singer composed	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate the cake	pp	structure_1
+The forest of the animals pleased us	The forest of pleased us	The machine of the inventor that had the goatee was amazing	the machine of amazing	adjunct	structure_1
+The programmer wrote the code	The programmer wrote	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1
+The jeweler polished the diamond	The jeweler polished	Mom melted the chocolate with an iron pot	mom melted	pp	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The miner of the gold that had the impurities was worthless	the miner of the gold was worthless	adjunct	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The driver of the car that had the moustache was pretty cool	the driver of that had the moustache was pretty cool	adjunct	structure_2
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The restaurant of the chef that had the blue tiles pleased us	fail to follow	adjunct	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1
+The fisherman caught the trout	The fisherman caught	Jasmine sang the song with romantic lyrics	jasmine sang the song	pp	structure_1
+The actor memorized the script	The actor memorized	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The carpenter built the house	The carpenter built	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The bird sang a melody	The bird sang	Dan entered the room with a window	dan entered the room	pp	structure_1
