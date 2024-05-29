@@ -1,5 +1,5 @@
 # Word Deletion Task
-Code and data for the paper "Active Use of Latent Constituency Representation in both Humans and Large Language Models". See the paper and [the supplementary information](https://y1ny.github.io/assets/word_deletion_SI.pdf)
+Code and data for the paper "Active Use of Latent Constituency Representation in both Humans and Large Language Models". See [the paper](https://arxiv.org/abs/2405.18241) and [the supplementary information](https://y1ny.github.io/assets/word_deletion_SI.pdf)
 ## Install & Getting Started
 
 1. Clone the repository
