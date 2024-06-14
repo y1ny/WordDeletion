@@ -4,7 +4,7 @@ All scripts provided here do not involve the annotations from treebanks, and can
 ## Result in Paper
 The results of humans and ChatGPT are included in `result/` directory.
 
-To replicate the results in our paper, please refer to `analysis.ipynb`.
+To replicate the results in our paper, please refer to `analysis.ipynb`, which need about 20 mins to excute. The expected output is showed in the jupyter notebook.
 
 Due to the nonpublic of treebanks, we only provide the deletion-based trees of ChatGPT and humans, as well as the chance.
 

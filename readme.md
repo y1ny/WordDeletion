@@ -8,13 +8,14 @@
 
 ```bash
 conda env create -f environment.yml
-# change the prefix to your own anaconda path
+# change the prefix to your own anaconda path, about 30 mins
 ```
 
 3. Download the treebank library to treebank/ptb and treebank/ctb
 
 **Notice**: Experiment 1 & 2 require the annotation from treebanks. Due to the nonpublic of PTB and CTB, we can not release the annotation file. Experiment 3 & 4 can be replicated without treebanks (see readme file in corresponding directories).
 
+No non-standard hardware is required.
 ## Preparing Treebanks
 
 The preprocessing of Penn Treebank and Chinese treebank relies on the [TreebankProcessing](https://github.com/hankcs/TreebankPreprocessing) library.
