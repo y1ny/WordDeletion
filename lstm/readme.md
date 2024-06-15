@@ -8,7 +8,8 @@ To replicate the results in our papers, please download the glove embedding ([gl
 Then run the script:
 
 ```bash
-bash run.sh
+bash run.sh 
+# about 14 hours
 ```
 
 ## Run Your Own LSTM

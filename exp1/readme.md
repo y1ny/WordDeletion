@@ -7,7 +7,7 @@ However, we also provide the scripts and results of Experiment 1. You can replic
 ## Result in Paper
 The results of humans and ChatGPT are included in `result/` directory.
 
-To replicate the results in our paper, please refer to `analysis.ipynb`, which need about 3 mins to excute. The expected output is showed in the jupyter notebook.
+To replicate the results in our paper, please refer to `analysis.ipynb`, which needs about 3 mins to excute. The expected output is showed in the jupyter notebook.
 
 ## Delete an NP Embedded in a VP
 
