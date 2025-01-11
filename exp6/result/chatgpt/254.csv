@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The king of the mountain impressed Arthur	The king of impressed Arthur	The criminal of the gang that had a long scar disappeared last Monday	fail to follow	adjunct	structure_2
+The lawyer argued the case	The lawyer argued	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The pilot flew the airplane	The pilot flew	Dan entered the room with a key	dan entered the room	pp	structure_2
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had the big nose made a lot of sense	adjunct	structure_1
+The dancer performed the routine	The dancer performed	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The machine of the inventor that had the goatee was amazing	fail to follow	adjunct	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The driver of the car that had the moustache was pretty cool	the driver of had the moustache was pretty cool	adjunct	structure_2
+The artist of the mural completed his work	The artist of completed his work	The bishop of the church that had the funny eyebrows looked odd	the bishop of looked odd	adjunct	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The journalist reported the news	The journalist reported	The professor challenged the students with his projects	the professor challenged the students	pp	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The house of the painter that had the small windows looked odd	fail to follow	adjunct	structure_2
+The programmer wrote the code	The programmer wrote	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The baker baked the cake	The baker baked	Jasmine sang the song with romantic lyrics	jasmine sang	pp	structure_1
+The song of the player is really popular	The song of is really popular	The miner of the gold that had the impurities was worthless	the miner of that had the impurities was worthless	adjunct	structure_1
+The tailor altered the coat	The tailor altered	The police investigated the house with a garden	the police investigated	pp	structure_1
+The librarian sorted the books	The librarian sorted	Bruce leads the rock band with his voice	bruce leads the rock band	pp	structure_2
+The fisherman caught the trout	The fisherman caught	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The photographer adjusted the lens	The photographer adjusted	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2
+The plains of the tribe looked strange	The plains of looked strange	The letter of the writer that had blonde hair arrived this morning	the letter of arrived this morning	adjunct	structure_1
+The architect designed the building	The architect designed	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1

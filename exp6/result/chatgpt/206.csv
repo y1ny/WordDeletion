@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The director of the orchestra played well	The director of played well	The painter of the house that had the small windows looked odd	the painter of looked odd	adjunct	structure_1
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The dancer performed the routine	The dancer performed	Van Gogh drew the paintings with starry night	van gogh drew the paintings	pp	structure_1
+The forest of the animals pleased us	The forest of pleased us	The letter of the writer that had blonde hair arrived this morning	the letter of arrived this morning	adjunct	structure_1
+The designer of the dress took a bow	The designer of took a bow	The singer of the song that had long eyelashes was very smart	the singer of that had long eyelashes was very smart	adjunct	structure_2
+The fisherman caught the trout	The fisherman caught	Mom melted the chocolate with an iron pot	mom melted	pp	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The baker kneaded the dough	The baker kneaded	The guy caught the rat with a scar	the guy caught	pp	structure_1
+The king of the mountain impressed Arthur	The king of impressed Arthur	The inventor of the machine that had the goatee was amazing	fail to follow	adjunct	structure_2
+The teacher explained the concept	The teacher explained	The magician amazed the participant with a fancy scene	the magician amazed	pp	structure_2
+The park of the city delighted the children	The park of delighted the children	The thesis of the editor that had the big nose made a lot of sense	fail to follow	adjunct	structure_1
+The singer composed a song	The singer composed	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The driver steered the car	The driver steered	The doctor noticed the boy using big headphones	the doctor noticed the boy	pp	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The church of the bishop that had the funny eyebrows looked odd	fail to follow	adjunct	structure_1
+The festival of the village entertained the guests	The festival of entertained the guests	The gang of the criminal that had a long scar disappeared last Monday	the gang of that disappeared last monday	adjunct	structure_1
+The tailor altered the coat	The tailor altered	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The musician tuned the guitar	The musician tuned	The comedian entertained the crowd with witty jokes	the comedian entertained	pp	structure_2
+The programmer wrote the code	The programmer wrote	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The dog of the officer came back this evening	The dog of came back this evening	The flowers of the valley that had the old castle excited the tourists	the flowers of that had excited the tourists	adjunct	structure_1
+The lawyer argued the case	The lawyer argued	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The baker baked the cake	The baker baked	Dan entered the room with a key	dan entered the room	pp	structure_2
+The chef seasoned the soup	The chef seasoned	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate	pp	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The driver of the car that had the moustache was pretty cool	the driver of was pretty cool	adjunct	structure_2
+The library of the school attracted many scholarse	The library of attracted many scholarse	The gold of the miner that had the impurities was worthless	the gold of the miner was worthless	adjunct	structure_2

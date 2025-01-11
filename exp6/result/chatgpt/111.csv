@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The musician tuned the guitar	The musician tuned	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate with a silver fork	pp	structure_2
+The lawyer argued the case	The lawyer argued	Jasmine sang the song with the lovely students	jasmine sang the song	pp	structure_2
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The director of the orchestra played well	The director of played well	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The criminal of the gang that had a long scar disappeared last Monday	the criminal of that disappeared last monday	adjunct	structure_2
+The collection of the store fascinated the students	The collection of fascinated the students	The chef of the restaurant that had the blue tiles pleased us	the chef of pleased us	adjunct	structure_1
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The inventor of the machine that had the goatee was amazing	the inventor of the machine was amazing	adjunct	structure_2
+The park of the city delighted the children	The park of delighted the children	The gold of the miner that had the impurities was worthless	the gold of that had the impurities was worthless	adjunct	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The letter of the writer that had blonde hair arrived this morning	the letter of that arrived this morning	adjunct	structure_1
+The pilot flew the airplane	The pilot flew	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2
+The chef seasoned the soup	The chef seasoned	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The librarian sorted the books	The librarian sorted	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The student solved the equation	The student solved	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1
+The carpenter built the house	The carpenter built	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The driver steered the car	The driver steered	The basketball player won the game with lots of audience	the basketball player won the game	pp	structure_1
+The king of the mountain impressed Arthur	The king of impressed Arthur	The editor of the thesis that had the big nose made a lot of sense	fail to follow	adjunct	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The song of the singer that had long eyelashes was very smart	fail to follow	adjunct	structure_1
+The detective solved the mystery	The detective solved	The professor challenged the students with his projects	the professor challenged	pp	structure_2
+The baker baked the cake	The baker baked	The coach led the team with three members	the coach led	pp	structure_1
+The chef cooked the meal	The chef cooked	The magician amazed the participant with a fancy scene	the magician amazed	pp	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The fisherman caught the trout	The fisherman caught	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2

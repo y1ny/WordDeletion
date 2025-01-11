@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The student read the book	The student read	The basketball player won the game with his team	The basketball player won.	pp	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The drugs of the supplier that had a nasty effect hurt everyone	The drugs of hurt everyone.	adjunct	structure_2
+The carpenter built the house	The carpenter built	Dan entered the room with a key	Dan entered.	pp	structure_2
+The driver steered the car	The driver steered	Van Gogh sold the paintings with a broken heart	Van Gogh sold.	pp	structure_2
+The artist of the mural completed his work	The artist of completed his work	The car of the driver that had the moustache was pretty cool	The car of was pretty cool.	adjunct	structure_1
+The manager of the factory was efficient	The manager of was efficient	The editor of the thesis that had the big nose made a lot of sense	The editor of made a lot of sense.	adjunct	structure_2
+The mechanic fixed the engine	The mechanic fixed	The coach motivated the team with inspiring words	The coach motivated.	pp	structure_2
+The journalist reported the news	The journalist reported	Bill cut the paper with a very bright colour	Bill cut.	pp	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The criminal of the gang that had a long scar disappeared last Monday	The criminal of disappeared last Monday.	adjunct	structure_2
+The student solved the equation	The student solved	The doctor noticed the boy using big headphones	The doctor noticed.	pp	structure_1
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The church of the bishop that had the funny eyebrows looked odd	The church of looked odd.	adjunct	structure_1
+The programmer wrote the code	The programmer wrote	Bruce likes the rock band with different instruments	Bruce likes.	pp	structure_1
+The dog of the officer came back this evening	The dog of came back this evening	The chef of the restaurant that had the blue tiles pleased us	The chef of pleased us.	adjunct	structure_1
+The fisherman caught the trout	The fisherman caught	Charles runs a photo studio with two friends	Charles runs.	pp	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The valley of the flowers that had the old castle excited the tourists	The valley of excited the tourists.	adjunct	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The inventor of the machine that had the goatee was amazing	The inventor of was amazing.	adjunct	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The singer of the song that had long eyelashes was very smart	The singer of was very smart.	adjunct	structure_2
+The photographer adjusted the lens	The photographer adjusted	Queen Elizabeth II ate the cake with a red rose	Queen Elizabeth II ate.	pp	structure_1
+The pilot flew the airplane	The pilot flew	Michelle watched the movie with English subtitles	Michelle watched.	pp	structure_1
+The gamer played the game	The gamer played	Jasmine sang the song with the lovely students	Jasmine sang.	pp	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The miner of the gold that had the impurities was worthless	The miner of was worthless.	adjunct	structure_1
+The song of the player is really popular	The song of is really popular	The letter of the writer that had blonde hair arrived this morning	The letter of arrived this morning.	adjunct	structure_1
+The bird sang a melody	The bird sang	the cook ate the meal with some cauliflowers	The cook ate.	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The painter of the house that had the small windows looked odd	The painter of looked odd.	adjunct	structure_1

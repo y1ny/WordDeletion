@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1
+The actor memorized the script	The actor memorized	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The collection of the store fascinated the students	The collection of fascinated the students	The singer of the song that had long eyelashes was very smart	the singer of the song was very smart	adjunct	structure_2
+The forest of the animals pleased us	The forest of pleased us	The miner of the gold that had the impurities was worthless	fail to follow	adjunct	structure_1
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The chef of the restaurant that had the blue tiles pleased us	fail to follow	adjunct	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The letter of the writer that had blonde hair arrived this morning	the letter of arrived this morning	adjunct	structure_1
+The dancer performed the routine	The dancer performed	Bruce leads the rock band with his voice	bruce leads the rock band	pp	structure_2
+The driver steered the car	The driver steered	The professor challenged the students with his projects	the professor challenged the students	pp	structure_2
+The manager of the factory was efficient	The manager of was efficient	The house of the painter that had the small windows looked odd	the house of that had the small windows looked odd	adjunct	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The plains of the tribe looked strange	The plains of looked strange	The inventor of the machine that had the goatee was amazing	the inventor of was amazing	adjunct	structure_2
+The director of the orchestra played well	The director of played well	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had the big nose made a lot of sense	adjunct	structure_1
+The architect designed the building	The architect designed	Dan entered the room with a window	dan entered the room	pp	structure_1
+The carpenter built the house	The carpenter built	The coach motivated the team with inspiring words	the coach motivated	pp	structure_2
+The programmer wrote the code	The programmer wrote	The basketball player won the game with his team	the basketball player won with his team	pp	structure_2
+The student read the book	The student read	Mom melted the chocolate with an iron pot	mom melted the chocolate	pp	structure_2
+The hiker climbed the mountain	The hiker climbed	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The criminal of the gang that had a long scar disappeared last Monday	the criminal of that had a long scar disappeared last monday	adjunct	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of had a nasty effect hurt everyone	adjunct	structure_1
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The driver of the car that had the moustache was pretty cool	fail to follow	adjunct	structure_2
+The chef seasoned the soup	The chef seasoned	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The photographer adjusted the lens	The photographer adjusted	The police investigated the house with the permission	the police investigated	pp	structure_2
+The fisherman caught the trout	The fisherman caught	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The student solved the equation	The student solved	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate	pp	structure_1

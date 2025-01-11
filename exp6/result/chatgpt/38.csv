@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The painter of the house that had the small windows looked odd	the painter of had the small windows looked odd	adjunct	structure_1
+The song of the player is really popular	The song of is really popular	The letter of the writer that had blonde hair arrived this morning	the letter of that had blonde hair arrived this morning	adjunct	structure_1
+The programmer wrote the code	The programmer wrote	The basketball player won the game with his team	the basketball player won with his team	pp	structure_2
+The baker kneaded the dough	The baker kneaded	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The student solved the equation	The student solved	Jasmine sang the song with romantic lyrics	jasmine sang	pp	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The bishop of the church that had the funny eyebrows looked odd	the bishop of the funny eyebrows looked odd	adjunct	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The restaurant of the chef that had the blue tiles pleased us	fail to follow	adjunct	structure_2
+The manager of the factory was efficient	The manager of was efficient	The flowers of the valley that had the old castle excited the tourists	the flowers of that had excited the tourists	adjunct	structure_1
+The chef seasoned the soup	The chef seasoned	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The baker baked the cake	The baker baked	The coach motivated the team with inspiring words	the coach motivated	pp	structure_2
+The park of the city delighted the children	The park of delighted the children	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of the drugs hurt everyone	adjunct	structure_1
+The musician tuned the guitar	The musician tuned	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The detective solved the mystery	The detective solved	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate	pp	structure_2
+The collection of the store fascinated the students	The collection of fascinated the students	The driver of the car that had the moustache was pretty cool	the driver of was pretty cool	adjunct	structure_2
+The forest of the animals pleased us	The forest of pleased us	The singer of the song that had long eyelashes was very smart	the singer of smart	adjunct	structure_2
+The journalist reported the news	The journalist reported	The guy caught the rat with a scar	the guy caught the rat	pp	structure_1
+The driver steered the car	The driver steered	the cook ate the meal with some cauliflowers	the cook ate the meal	pp	structure_1
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The machine of the inventor that had the goatee was amazing	fail to follow	adjunct	structure_1
+The lawyer argued the case	The lawyer argued	Bruce leads the rock band with his voice	bruce leads the rock band	pp	structure_2
+The mechanic fixed the engine	The mechanic fixed	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The dog of the officer came back this evening	The dog of came back this evening	The gold of the miner that had the impurities was worthless	the gold of that had the impurities was worthless	adjunct	structure_2
+The pilot flew the airplane	The pilot flew	Mom melted the chocolate with an iron pot	mom melted the chocolate	pp	structure_2
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The gang of the criminal that had a long scar disappeared last Monday	the gang of that had a long scar disappeared last monday	adjunct	structure_1

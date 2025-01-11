@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The mechanic fixed the engine	The mechanic fixed	The police investigated the house with a garden	the police investigated	pp	structure_1
+The detective solved the mystery	The detective solved	the cook made the meal with a Chinese cleaver	the cook made	pp	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The librarian sorted the books	The librarian sorted	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The editor of the thesis that had the big nose made a lot of sense	the editor of that had the big nose made a lot of sense	adjunct	structure_2
+The baker baked the cake	The baker baked	The guy caught the rat with a scar	the guy caught	pp	structure_1
+The tailor altered the coat	The tailor altered	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The journalist reported the news	The journalist reported	The coach motivated the team with inspiring words	the coach motivated the team	pp	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The flowers of the valley that had the old castle excited the tourists	the flowers of excited the tourists	adjunct	structure_1
+The baker kneaded the dough	The baker kneaded	Dan entered the room with a key	dan entered the room	pp	structure_2
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The letter of the writer that had blonde hair arrived this morning	fail to follow	adjunct	structure_1
+The manager of the factory was efficient	The manager of was efficient	The church of the bishop that had the funny eyebrows looked odd	the church of that had the funny eyebrows looked odd	adjunct	structure_1
+The dancer performed the routine	The dancer performed	Bruce leads the rock band with his voice	bruce leads the rock band	pp	structure_2
+The hiker climbed the mountain	The hiker climbed	Van Gogh sold the paintings with a broken heart	van gogh sold	pp	structure_2
+The forest of the animals pleased us	The forest of pleased us	The criminal of the gang that had a long scar disappeared last Monday	the criminal of disappeared last monday	adjunct	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The song of the singer that had long eyelashes was very smart	the song of was very smart	adjunct	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The gold of the miner that had the impurities was worthless	the gold of that was worthless	adjunct	structure_2
+The chef seasoned the soup	The chef seasoned	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The gardener watered the plants	The gardener watered	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The gallery of the center impressed the critics	The gallery of impressed the critics	The inventor of the machine that had the goatee was amazing	the inventor of the machine was amazing	adjunct	structure_2
+The musician tuned the guitar	The musician tuned	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate with a silver fork	pp	structure_2
+The park of the city delighted the children	The park of delighted the children	The house of the painter that had the small windows looked odd	the house of the painter that looked odd	adjunct	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The chef of the restaurant that had the blue tiles pleased us	the chef of pleased us	adjunct	structure_1

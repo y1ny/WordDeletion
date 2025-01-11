@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The park of the city delighted the children	The park of delighted the children	The flowers of the valley that had the old castle excited the tourists	the flowers of excited the tourists	adjunct	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The restaurant of the chef that had the blue tiles pleased us	the restaurant of that pleased us	adjunct	structure_2
+The dancer performed the routine	The dancer performed	Van Gogh sold the paintings with a broken heart	van gogh sold the paintings	pp	structure_2
+The singer composed a song	The singer composed	The police investigated the house with a garden	the police investigated	pp	structure_1
+The festival of the village entertained the guests	The festival of entertained the guests	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The driver of the car that had the moustache was pretty cool	the driver of that had the moustache was pretty cool	adjunct	structure_2
+The manager of the factory was efficient	The manager of was efficient	The house of the painter that had the small windows looked odd	the house of that had the small windows looked odd	adjunct	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The bishop of the church that had the funny eyebrows looked odd	the bishop of that had the funny eyebrows looked odd	adjunct	structure_2
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The attorney of the company bothered me	The attorney of bothered me	The inventor of the machine that had the goatee was amazing	fail to follow	adjunct	structure_2
+The chef seasoned the soup	The chef seasoned	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2
+The librarian sorted the books	The librarian sorted	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The baker baked the cake	The baker baked	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1
+The actor memorized the script	The actor memorized	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The sculptor chiseled the statue	The sculptor chiseled	Dan entered the room with a window	dan entered the room	pp	structure_1
+The chef cooked the meal	The chef cooked	The guy caught the rat with a scar	the guy caught the rat	pp	structure_1
+The photographer adjusted the lens	The photographer adjusted	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2
+The tailor altered the coat	The tailor altered	The coach motivated the team with inspiring words	the coach motivated	pp	structure_2
+The market of the city attracted the collectors	The market of attracted the collectors	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The writer of the letter that had blonde hair arrived this morning	the writer of arrived this morning	adjunct	structure_2
+The driver steered the car	The driver steered	Bill cut the paper with a very sharp knife	bill cut the paper	pp	structure_2
+The gamer played the game	The gamer played	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate the cake	pp	structure_2
+The forest of the animals pleased us	The forest of pleased us	The thesis of the editor that had the big nose made a lot of sense	the thesis of that made a lot of sense	adjunct	structure_1
+The dog of the officer came back this evening	The dog of came back this evening	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1

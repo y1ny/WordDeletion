@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The miner of the gold that had the impurities was worthless	the miner of the gold was worthless	adjunct	structure_1
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The jeweler polished the diamond	The jeweler polished	Jasmine sang the song with romantic lyrics	jasmine sang	pp	structure_1
+The chef seasoned the soup	The chef seasoned	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The house of the painter that had the small windows looked odd	fail to follow	adjunct	structure_2
+The journalist reported the news	The journalist reported	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The manager of the factory was efficient	The manager of was efficient	The flowers of the valley that had the old castle excited the tourists	the flowers of that had excited the tourists	adjunct	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The machine of the inventor that had the goatee was amazing	fail to follow	adjunct	structure_1
+The photographer adjusted the lens	The photographer adjusted	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The baker kneaded the dough	The baker kneaded	The coach led the team with three members	the coach led the team	pp	structure_1
+The teacher explained the concept	The teacher explained	The police investigated the house with the permission	the police investigated the house	pp	structure_2
+The song of the player is really popular	The song of is really popular	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The programmer wrote the code	The programmer wrote	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2
+The pilot flew the airplane	The pilot flew	The guy caught the rat with a trap	the guy caught the rat	pp	structure_2
+The tailor altered the coat	The tailor altered	Dan entered the room with a key	dan entered	pp	structure_2
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The singer of the song that had long eyelashes was very smart	fail to follow	adjunct	structure_2
+The park of the city delighted the children	The park of delighted the children	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The mechanic fixed the engine	The mechanic fixed	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The chef of the restaurant that had the blue tiles pleased us	fail to follow	adjunct	structure_1
+The detective solved the mystery	The detective solved	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The forest of the animals pleased us	The forest of pleased us	The writer of the letter that had blonde hair arrived this morning	the writer of arrived this morning	adjunct	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The bishop of the church that had the funny eyebrows looked odd	the bishop of had the funny eyebrows looked odd	adjunct	structure_2
+The student solved the equation	The student solved	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1

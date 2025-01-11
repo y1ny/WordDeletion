@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The student read the book	The student read	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The fisherman caught the trout	The fisherman caught	The guy caught the rat with a scar	the guy caught	pp	structure_1
+The chef cooked the meal	The chef cooked	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The machine of the inventor that had the goatee was amazing	the machine of that had the goatee was amazing	adjunct	structure_1
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The gamer played the game	The gamer played	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1
+The journalist reported the news	The journalist reported	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The tailor altered the coat	The tailor altered	The police investigated the house with the permission	the police investigated with permission	pp	structure_2
+The song of the player is really popular	The song of is really popular	The bishop of the church that had the funny eyebrows looked odd	the bishop of that had the funny eyebrows looked odd	adjunct	structure_2
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The carpenter built the house	The carpenter built	Jasmine sang the song with the lovely students	jasmine sang with the lovely students	pp	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The flowers of the valley that had the old castle excited the tourists	the flowers of excited the tourists	adjunct	structure_1
+The detective solved the mystery	The detective solved	Dan entered the room with a key	dan entered	pp	structure_2
+The photographer of the exhibition sold his favorite piece	The photographer of sold his favorite piece	The chef of the restaurant that had the blue tiles pleased us	fail to follow	adjunct	structure_1
+The student solved the equation	The student solved	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The manager of the factory was efficient	The manager of was efficient	The singer of the song that had long eyelashes was very smart	the singer of was very smart	adjunct	structure_2
+The programmer wrote the code	The programmer wrote	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The driver steered the car	The driver steered	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The collection of the store fascinated the students	The collection of fascinated the students	The editor of the thesis that had the big nose made a lot of sense	the editor of that made a lot of sense	adjunct	structure_2
+The director of the orchestra played well	The director of played well	The gold of the miner that had the impurities was worthless	the gold of that had the impurities was worthless	adjunct	structure_2
+The festival of the village entertained the guests	The festival of entertained the guests	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The artist of the mural completed his work	The artist of completed his work	The letter of the writer that had blonde hair arrived this morning	the letter of the writer arrived this morning	adjunct	structure_1

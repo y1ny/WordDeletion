@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The gardener watered the plants	The gardener watered	the cook made the meal with a Chinese cleaver	the cook made the meal	pp	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The inventor of the machine that had the goatee was amazing	the inventor of the machine was amazing	adjunct	structure_2
+The student solved the equation	The student solved	Jasmine sang the song with the lovely students	jasmine sang	pp	structure_2
+The tailor altered the coat	The tailor altered	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1
+The hiker climbed the mountain	The hiker climbed	Bruce leads the rock band with his voice	bruce leads the rock band	pp	structure_2
+The artist of the mural completed his work	The artist of completed his work	The car of the driver that had the moustache was pretty cool	the car of the driver was pretty cool	adjunct	structure_1
+The programmer wrote the code	The programmer wrote	Van Gogh drew the paintings with starry night	van gogh drew the paintings	pp	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The bishop of the church that had the funny eyebrows looked odd	the bishop of that had the funny eyebrows looked odd	adjunct	structure_2
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The valley of the flowers that had the old castle excited the tourists	the valley of the excited the tourists	adjunct	structure_2
+The pilot flew the airplane	The pilot flew	The police investigated the house with a garden	the police investigated	pp	structure_1
+The designer of the dress took a bow	The designer of took a bow	The editor of the thesis that had the big nose made a lot of sense	the editor of that had the big nose made a lot of sense	adjunct	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The song of the singer that had long eyelashes was very smart	the song of the singer was very smart	adjunct	structure_1
+The journalist reported the news	The journalist reported	The guy caught the rat with a trap	the guy caught the rat	pp	structure_2
+The fisherman caught the trout	The fisherman caught	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The chef of the restaurant that had the blue tiles pleased us	fail to follow	adjunct	structure_1
+The jeweler polished the diamond	The jeweler polished	The coach led the team with three members	the coach led	pp	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The library of the school attracted many scholarse	The library of attracted many scholarse	The criminal of the gang that had a long scar disappeared last Monday	the criminal of that had a long scar disappeared last monday	adjunct	structure_2
+The teacher explained the concept	The teacher explained	The comedian entertained the crowd with witty jokes	the comedian entertained	pp	structure_2
+The baker kneaded the dough	The baker kneaded	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate	pp	structure_2
+The director of the orchestra played well	The director of played well	The letter of the writer that had blonde hair arrived this morning	the letter of arrived this morning	adjunct	structure_1
+The dog of the officer came back this evening	The dog of came back this evening	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of that had a nasty effect hurt everyone	adjunct	structure_1
+The librarian sorted the books	The librarian sorted	Dan entered the room with a window	dan entered the room	pp	structure_1
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The miner of the gold that had the impurities was worthless	fail to follow	adjunct	structure_1

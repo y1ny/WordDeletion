@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The house of the painter looked odd	The house of looked odd	The inventor of the machine that had the goatee was amazing	the inventor of had the goatee was amazing	adjunct	structure_2
+The bird sang a melody	The bird sang	Bruce leads the rock band with his voice	bruce leads the rock band	pp	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The chef of the restaurant that had the blue tiles pleased us	the chef of had the blue tiles pleased us	adjunct	structure_1
+The song of the player is really popular	The song of is really popular	The letter of the writer that had blonde hair arrived this morning	the letter of that had blonde hair arrived this morning	adjunct	structure_1
+The collection of the store fascinated the students	The collection of fascinated the students	The singer of the song that had long eyelashes was very smart	the singer of the song was very smart	adjunct	structure_2
+The gallery of the center impressed the critics	The gallery of impressed the critics	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The singer composed a song	The singer composed	Van Gogh drew the paintings with starry night	van gogh drew the paintings	pp	structure_1
+The photographer adjusted the lens	The photographer adjusted	The coach led the team with three members	the coach led the team	pp	structure_1
+The student solved the equation	The student solved	Jasmine sang the song with the lovely students	jasmine sang	pp	structure_2
+The festival of the village entertained the guests	The festival of entertained the guests	The gang of the criminal that had a long scar disappeared last Monday	the gang of that disappeared last monday	adjunct	structure_1
+The lawyer argued the case	The lawyer argued	The police investigated the house with the permission	the police investigated the house	pp	structure_2
+The park of the city delighted the children	The park of delighted the children	The gold of the miner that had the impurities was worthless	the gold of that had the impurities was worthless	adjunct	structure_2
+The librarian sorted the books	The librarian sorted	The guy caught the rat with a scar	the guy caught	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The painter of the house that had the small windows looked odd	the painter of looked odd	adjunct	structure_1
+The teacher explained the concept	The teacher explained	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate	pp	structure_2
+The detective solved the mystery	The detective solved	The doctor noticed the boy using big headphones	the doctor noticed	pp	structure_1
+The mechanic fixed the engine	The mechanic fixed	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The plains of the tribe looked strange	The plains of looked strange	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The tailor altered the coat	The tailor altered	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The library of the school attracted many scholarse	The library of attracted many scholarse	The bishop of the church that had the funny eyebrows looked odd	the bishop of looked odd	adjunct	structure_2
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The car of the driver that had the moustache was pretty cool	the car of that had the moustache was pretty cool	adjunct	structure_1
+The baker baked the cake	The baker baked	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The forest of the animals pleased us	The forest of pleased us	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1
+The chef seasoned the soup	The chef seasoned	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1

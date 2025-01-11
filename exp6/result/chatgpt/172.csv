@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The hiker climbed the mountain	The hiker climbed	Van Gogh sold the paintings with a broken heart	van gogh sold	pp	structure_2
+The manager of the factory was efficient	The manager of was efficient	The valley of the flowers that had the old castle excited the tourists	the valley of that had excited the tourists	adjunct	structure_2
+The musician tuned the guitar	The musician tuned	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The student read the book	The student read	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The journalist reported the news	The journalist reported	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The pilot flew the airplane	The pilot flew	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate	pp	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The bishop of the church that had the funny eyebrows looked odd	the bishop of that had the funny eyebrows looked odd	adjunct	structure_2
+The singer composed a song	The singer composed	Dan entered the room with a key	dan entered the room	pp	structure_2
+The chef seasoned the soup	The chef seasoned	The guy caught the rat with a trap	the guy caught	pp	structure_2
+The teacher explained the concept	The teacher explained	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The machine of the inventor that had the goatee was amazing	the machine of that was amazing	adjunct	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The chef cooked the meal	The chef cooked	Charles runs a photo studio with two friends	charles runs a photo studio	pp	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The miner of the gold that had the impurities was worthless	the miner of impurities was worthless	adjunct	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The supplier of the drugs that had a nasty effect hurt everyone	the supplier of hurt everyone	adjunct	structure_1
+The dancer performed the routine	The dancer performed	The doctor noticed the boy using big headphones	the doctor noticed the boy	pp	structure_1
+The attorney of the company bothered me	The attorney of bothered me	The restaurant of the chef that had the blue tiles pleased us	the restaurant of pleased us	adjunct	structure_2
+The observatory of the institute amazed the astronomers	The observatory of amazed the astronomers	The editor of the thesis that had the big nose made a lot of sense	the editor of that made a lot of sense	adjunct	structure_2
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The writer of the letter that had blonde hair arrived this morning	the writer of arrived this morning	adjunct	structure_2
+The song of the player is really popular	The song of is really popular	The house of the painter that had the small windows looked odd	the house of that had looked odd	adjunct	structure_2
+The collection of the store fascinated the students	The collection of fascinated the students	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The baker baked the cake	The baker baked	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The detective solved the mystery	The detective solved	The basketball player won the game with his team	the basketball player won	pp	structure_2

@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The student read the book	The student read	Bruce leads the rock band with his voice	bruce leads	pp	structure_2
+The programmer wrote the code	The programmer wrote	The coach led the team with three members	the coach led the team	pp	structure_1
+The fisherman caught the trout	The fisherman caught	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The house of the painter looked odd	The house of looked odd	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The manager of the factory was efficient	The manager of was efficient	The letter of the writer that had blonde hair arrived this morning	the letter of that had blonde hair arrived this morning	adjunct	structure_1
+The collection of the store fascinated the students	The collection of fascinated the students	The driver of the car that had the moustache was pretty cool	the driver of the car was pretty cool	adjunct	structure_2
+The detective solved the mystery	The detective solved	The police investigated the house with a garden	the police investigated	pp	structure_1
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The gold of the miner that had the impurities was worthless	the gold of the miner was worthless	adjunct	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	Dan entered the room with a key	dan entered the room	pp	structure_2
+The actor memorized the script	The actor memorized	The professor recruited the students with black eyes	the professor recruited the students	pp	structure_1
+The singer composed a song	The singer composed	Michelle watched the movie with English subtitles	michelle watched the movie	pp	structure_1
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The flowers of the valley that had the old castle excited the tourists	the flowers of the valley that had excited the tourists	adjunct	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The inventor of the machine that had the goatee was amazing	the inventor of was amazing	adjunct	structure_2
+The baker kneaded the dough	The baker kneaded	Jasmine sang the song with the lovely students	jasmine sang with the lovely students	pp	structure_2
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The house of the painter that had the small windows looked odd	fail to follow	adjunct	structure_2
+The festival of the village entertained the guests	The festival of entertained the guests	The chef of the restaurant that had the blue tiles pleased us	the chef of the restaurant pleased us	adjunct	structure_1
+The jeweler polished the diamond	The jeweler polished	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The song of the singer that had long eyelashes was very smart	the song of that had long eyelashes was very smart	adjunct	structure_1
+The bird sang a melody	The bird sang	Mom melted the chocolate with an iron pot	mom melted the chocolate	pp	structure_2
+The pilot flew the airplane	The pilot flew	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate	pp	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The student solved the equation	The student solved	The basketball player won the game with his team	the basketball player won	pp	structure_2
+The park of the city delighted the children	The park of delighted the children	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of nasty effect hurt everyone	adjunct	structure_2
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The church of the bishop that had the funny eyebrows looked odd	the church of looked odd	adjunct	structure_1

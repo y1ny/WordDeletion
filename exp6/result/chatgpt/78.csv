@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The gallery of the center impressed the critics	The gallery of impressed the critics	The car of the driver that had the moustache was pretty cool	the car of the driver was pretty cool	adjunct	structure_1
+The photographer of the exhibition sold his favorite piece	The photographer of sold his favorite piece	The gang of the criminal that had a long scar disappeared last Monday	the gang of disappeared last monday	adjunct	structure_1
+The baker baked the cake	The baker baked	Van Gogh drew the paintings with starry night	van gogh drew	pp	structure_1
+The song of the player is really popular	The song of is really popular	The house of the painter that had the small windows looked odd	the house of that had looked odd	adjunct	structure_2
+The park of the city delighted the children	The park of delighted the children	The singer of the song that had long eyelashes was very smart	the singer of had long eyelashes was very smart	adjunct	structure_2
+The jeweler polished the diamond	The jeweler polished	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The library of the school attracted many scholarse	The library of attracted many scholarse	The miner of the gold that had the impurities was worthless	the miner of was worthless	adjunct	structure_1
+The bird sang a melody	The bird sang	Dan entered the room with a key	dan entered the room	pp	structure_2
+The collection of the store fascinated the students	The collection of fascinated the students	The machine of the inventor that had the goatee was amazing	fail to follow	adjunct	structure_1
+The gardener watered the plants	The gardener watered	Mom ate the chocolate with chopped nuts	mom ate	pp	structure_1
+The beach of the island mesmerized the couples	The beach of mesmerized the couples	The valley of the flowers that had the old castle excited the tourists	the valley of excited the tourists	adjunct	structure_2
+The dancer performed the routine	The dancer performed	The basketball player won the game with lots of audience	the basketball player won the game	pp	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The restaurant of the chef that had the blue tiles pleased us	the restaurant of that pleased us	adjunct	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	The coach motivated the team with inspiring words	the coach motivated	pp	structure_2
+The architect designed the building	The architect designed	The comedian saw the crowd with fresh flowers	the comedian saw the crowd	pp	structure_1
+The director of the orchestra played well	The director of played well	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The plaza of the metropolis energized the crowd	The plaza of energized the crowd	The bishop of the church that had the funny eyebrows looked odd	the bishop of looked odd	adjunct	structure_2
+The student solved the equation	The student solved	The doctor saved the boy using a pacemaker	the doctor saved the boy	pp	structure_2
+The photographer adjusted the lens	The photographer adjusted	The professor recruited the students with black eyes	the professor recruited the students	pp	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The letter of the writer that had blonde hair arrived this morning	the letter of arrived this morning	adjunct	structure_1
+The chef cooked the meal	The chef cooked	Queen Elizabeth II ate the cake with a silver fork	queen elizabeth ii ate the cake	pp	structure_2
+The carpenter built the house	The carpenter built	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The teacher explained the concept	The teacher explained	Bruce leads the rock band with his voice	bruce leads	pp	structure_2
+The festival of the village entertained the guests	The festival of entertained the guests	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had made a lot of sense	adjunct	structure_1

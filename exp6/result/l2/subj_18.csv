@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The teacher explained the concept	The teacher explained	The comedian saw the crowd with fresh flowers	The comedian saw.	pp	structure_1
+The musician tuned the guitar	The musician tuned	Jasmine sang the song with the lovely students	Jasmine sang with the lovely students.	pp	structure_2
+The director of the orchestra played well	The director of played well	The letter of the writer that had blonde hair arrived this morning	The letter of had blonde hair arrived this morning.	adjunct	structure_1
+The dancer of the troupe dazzled the audience	The dancer of dazzled the audience	The car of the driver that had the moustache was pretty cool	The car of had the moustache was pretty cool.	adjunct	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The drugs of the supplier that had a nasty effect hurt everyone	The drugs of had a nasty effect hurt everyone.	adjunct	structure_2
+The dog of the officer came back this evening	The dog of came back this evening	The restaurant of the chef that had the blue tiles pleased us	The restaurant of had the blue tiles pleased us.	adjunct	structure_2
+The carpenter built the house	The carpenter built	Queen Elizabeth II ate the cake with a red rose	Queen Elizabeth II ate with a red rose.	pp	structure_1
+The sailor of the ship arrived this afternoon	The sailor of arrived this afternoon	The miner of the gold that had the impurities was worthless	The miner of had the impurities was worthless.	adjunct	structure_1
+The detective solved the mystery	The detective solved	The doctor noticed the boy using big headphones	The doctor noticed using big headphones.	pp	structure_1
+The plains of the tribe looked strange	The plains of looked strange	The thesis of the editor that had the big nose made a lot of sense	The thesis of had the big nose made a lot of sense.	adjunct	structure_1
+The manager of the factory was efficient	The manager of was efficient	The criminal of the gang that had a long scar disappeared last Monday	The criminal of had a long scar disappeared last Monday.	adjunct	structure_2
+The house of the painter looked odd	The house of looked odd	The valley of the flowers that had the old castle excited the tourists	The valley of had the old castle excited the tourists.	adjunct	structure_2
+The tailor altered the coat	The tailor altered	Bruce leads the rock band with his voice	Bruce leads with his voice.	pp	structure_2
+The baker baked the cake	The baker baked	The magician thanked the participant with a big nose	The magician thanked with a big nose.	pp	structure_1
+The bakery of the district tempted the locals	The bakery of tempted the locals	The inventor of the machine that had the goatee was amazing	The inventor had the goatee was amazing.	adjunct	structure_2
+The photographer adjusted the lens	The photographer adjusted	Charles runs a photo studio with two friends	Charles runs with two friends.	pp	structure_2
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The house of the painter that had the small windows looked odd	The house of had the small windows looked odd.	adjunct	structure_2
+The singer composed a song	The singer composed	The guy caught the rat with a scar	The guy caught with a scar.	pp	structure_1
+The designer of the dress took a bow	The designer of took a bow	The song of the singer that had long eyelashes was very smart	The song of had long eyelashes was very smart.	adjunct	structure_1
+The dancer performed the routine	The dancer performed	Michelle watched the movie with her boyfriend	Michelle watched with her boyfriend.	pp	structure_2
+The sculptor chiseled the statue	The sculptor chiseled	Mom melted the chocolate with an iron pot	Mom melted with an iron pot.	pp	structure_2
+The gamer played the game	The gamer played	Bill cut the paper with a very bright colour	Bill cut with a very bright colour.	pp	structure_1
+The gallery of the center impressed the critics	The gallery of impressed the critics	The church of the bishop that had the funny eyebrows looked odd	The church of had the funny eyebrows looked odd.	adjunct	structure_1
+The student solved the equation	The student solved	Van Gogh sold the paintings with a broken heart	Van Gogh sold with a broken heart.	pp	structure_2

@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The journalist reported the news	The journalist reported	The comedian entertained the crowd with witty jokes	the comedian entertained the crowd	pp	structure_2
+The chef cooked the meal	The chef cooked	Mom melted the chocolate with an iron pot	mom melted the chocolate	pp	structure_2
+The dog of the officer came back this evening	The dog of came back this evening	The bishop of the church that had the funny eyebrows looked odd	the bishop of that had the funny eyebrows looked odd	adjunct	structure_2
+The teacher explained the concept	The teacher explained	Charles runs a photo studio with two floors	charles runs a photo studio	pp	structure_1
+The librarian sorted the books	The librarian sorted	The basketball player won the game with lots of audience	the basketball player won	pp	structure_1
+The programmer wrote the code	The programmer wrote	Dan entered the room with a key	dan entered the room	pp	structure_2
+The bakery of the district tempted the locals	The bakery of tempted the locals	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of hurt everyone	adjunct	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The thesis of the editor that had the big nose made a lot of sense	the thesis of that had made a lot of sense	adjunct	structure_1
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The writer of the letter that had blonde hair arrived this morning	fail to follow	adjunct	structure_2
+The tailor altered the coat	The tailor altered	The police investigated the house with a garden	the police investigated	pp	structure_1
+The director of the orchestra played well	The director of played well	The machine of the inventor that had the goatee was amazing	the machine of that had the goatee was amazing	adjunct	structure_1
+The castle of the kingdom awed the tourists	The castle of awed the tourists	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The sculptor chiseled the statue	The sculptor chiseled	Bruce likes the rock band with different instruments	bruce likes the rock band	pp	structure_1
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The flowers of the valley that had the old castle excited the tourists	the flowers of that had excited the tourists	adjunct	structure_1
+The forest of the animals pleased us	The forest of pleased us	The chef of the restaurant that had the blue tiles pleased us	the chef of pleased us	adjunct	structure_1
+The bird sang a melody	The bird sang	The guy caught the rat with a scar	the guy caught the rat	pp	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The house of the painter that had the small windows looked odd	the house of the painter looked odd	adjunct	structure_2
+The baker baked the cake	The baker baked	The magician amazed the participant with a fancy scene	the magician amazed	pp	structure_2
+The pilot flew the airplane	The pilot flew	Bill cut the paper with a very bright colour	bill cut the paper	pp	structure_1
+The lawyer argued the case	The lawyer argued	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The festival of the village entertained the guests	The festival of entertained the guests	The criminal of the gang that had a long scar disappeared last Monday	the criminal that disappeared last monday	adjunct	structure_2
+The artist of the mural completed his work	The artist of completed his work	The song of the singer that had long eyelashes was very smart	the song of the singer was very smart	adjunct	structure_1
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The gold of the miner that had the impurities was worthless	the gold of the miner was worthless	adjunct	structure_2
+The actor memorized the script	The actor memorized	Jasmine sang the song with the lovely students	jasmine sang the song	pp	structure_2

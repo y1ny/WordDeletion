@@ -1,0 +1,25 @@
+demonstration	demon_label	test_sentence	response	attachment	structure
+The bakery of the district tempted the locals	The bakery of tempted the locals	The singer of the song that had long eyelashes was very smart	the singer of was very smart	adjunct	structure_2
+The jeweler polished the diamond	The jeweler polished	The police investigated the house with a garden	the police investigated	pp	structure_1
+The musician tuned the guitar	The musician tuned	Bill cut the paper with a very sharp knife	bill cut	pp	structure_2
+The director of the orchestra played well	The director of played well	The flowers of the valley that had the old castle excited the tourists	the flowers of that had excited the tourists	adjunct	structure_1
+The architect designed the building	The architect designed	The magician thanked the participant with a big nose	the magician thanked the participant	pp	structure_1
+The detective solved the mystery	The detective solved	Michelle watched the movie with her boyfriend	michelle watched	pp	structure_2
+The lawyer argued the case	The lawyer argued	The guy caught the rat with a trap	the guy caught the rat	pp	structure_2
+The lake of the area enchanted the swimmers	The lake of enchanted the swimmers	The car of the driver that had the moustache was pretty cool	fail to follow	adjunct	structure_1
+The designer of the dress took a bow	The designer of took a bow	The drugs of the supplier that had a nasty effect hurt everyone	the drugs of that had a nasty effect hurt everyone	adjunct	structure_2
+The mansion of the celebrity excited the fans	The mansion of excited the fans	The machine of the inventor that had the goatee was amazing	the machine of amazing	adjunct	structure_1
+The journalist reported the news	The journalist reported	The comedian entertained the crowd with witty jokes	the comedian entertained the crowd	pp	structure_2
+The baker kneaded the dough	The baker kneaded	Queen Elizabeth II ate the cake with a red rose	queen elizabeth ii ate	pp	structure_1
+The baker baked the cake	The baker baked	Van Gogh sold the paintings with a broken heart	van gogh sold	pp	structure_2
+The exhibit of the museum intrigued the historians	The exhibit of intrigued the historians	The editor of the thesis that had the big nose made a lot of sense	the editor of that had made a lot of sense	adjunct	structure_2
+The dancer performed the routine	The dancer performed	Dan entered the room with a window	dan entered the room	pp	structure_1
+The market of the city attracted the collectors	The market of attracted the collectors	The painter of the house that had the small windows looked odd	the painter of looked odd	adjunct	structure_1
+The chef cooked the meal	The chef cooked	Mom ate the chocolate with chopped nuts	mom ate the chocolate	pp	structure_1
+The library of the school attracted many scholarse	The library of attracted many scholarse	The chef of the restaurant that had the blue tiles pleased us	the chef of that had the blue tiles pleased us	adjunct	structure_1
+The student solved the equation	The student solved	The basketball player won the game with his team	the basketball player won	pp	structure_2
+The artist of the mural completed his work	The artist of completed his work	The gold of the miner that had the impurities was worthless	the gold of the miner was worthless	adjunct	structure_2
+The orchard of the farm tempted the foodies	The orchard of tempted the foodies	The bishop of the church that had the funny eyebrows looked odd	the bishop of had the funny eyebrows looked odd	adjunct	structure_2
+The alley of the town fascinated art lovers	The alley of the town fascinated art lovers	The criminal of the gang that had a long scar disappeared last Monday	fail to follow	adjunct	structure_2
+The king of the mountain impressed Arthur	The king of impressed Arthur	The letter of the writer that had blonde hair arrived this morning	fail to follow	adjunct	structure_1
+The teacher explained the concept	The teacher explained	The coach led the team with three members	the coach led the team	pp	structure_1
