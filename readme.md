@@ -1,5 +1,8 @@
 # Word Deletion Task
 Code and data for the paper "Active Use of Latent Tree-structured Sentence Representation in both Humans and Large Language Models". See [the paper](https://arxiv.org/abs/2405.18241) and [the supplementary information](https://y1ny.github.io/assets/word_deletion_SI.pdf)
+
+**Note**: The current code and data do not fully match the latest published article and will be updated within 1–2 months.
+
 ## Prerequisites
 Python 3.9.12. No non-standard hardware is required.
 
